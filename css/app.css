@@ -3,9 +3,10 @@ body{
 }
 
 
-#header-container{
-	background-color: #99c84a;
-	color:white;
+#header-container,
+#info-container {
+  background-color: #99c84a;
+  color: white;
 }
 
 #header-container .login,
@@ -29,6 +30,7 @@ body{
 input.form-control:focus{
 	border-color: #99c84a;
 }
+
 #search-bar{
 	padding: 1em;
 }
@@ -36,5 +38,18 @@ input.form-control:focus{
 #productosCarousel img{
 	margin: 0 auto;
 }
+
+#info-container h4{
+	margin: 1em auto;
+}
+
+#info-container img{
+	height: 288px;
+	margin: 0 auto;
+	margin-top: 2em; 
+}
+
+
+
 
 
