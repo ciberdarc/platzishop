@@ -1,3 +1,3 @@
 # platzishop
 
-https://ciberdarc.github.io/platzishop/index.html
+https://ealexisaraujo.github.io/platzishop/index.html
